@@ -8,7 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/_mohammedfuzail" target="blank"><img src="https://img.shields.io/twitter/follow/_mohammedfuzail?logo=twitter&style=for-the-badge" alt="_mohammedfuzail" /></a> </p>
 
-- 🔭 I’m currently working on [Atlas Study](https://androcoders.com/temp/atlas)
 
 - 👨‍💻 All of my projects are available at [https://mohammedfuzail.tech](https://mohammedfuzail.tech)
 
