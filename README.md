@@ -18,7 +18,7 @@
 <a href="https://twitter.com/_mohammedfuzail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mohammedfuzail" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohammed-fuzail-272259222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-fuzail-272259222" height="30" width="40" /></a>
 <a href="https://fb.com/mohammed.fuzail0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammed.fuzail0" height="30" width="40" /></a>
-<a href="https://instagram.com/_mohammedfuzail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohammedfuzail" height="30" width="40" /></a>
+<a href="https://instagram.com/_fuzailspartan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mohammedfuzail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
